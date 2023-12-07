@@ -8,3 +8,4 @@ console.log(devNumber, typeof(devNumber)); // 1(숫자열) number
 console.log(devString, typeof(devString)); // 1(문자열) string
 console.log(devBoolean, typeof(devBoolean)); // true boolean
 console.log(devArray, typeof(devArray)); // [1, 2, 3] object
+console.log(devObject, typeof(devObject)); // {name:'dev', age:20} object
