@@ -19,3 +19,4 @@ var wrapObject = {
 }
 
 console.log(wrapObject.devNumber); // 1
+console.log(wrapObject["devNumber"]); // 1
